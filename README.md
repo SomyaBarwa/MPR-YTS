@@ -1,2 +1,2 @@
 # MPR-YTS
-Youtube Transcript Summarizer
+Transcript Summarizer
